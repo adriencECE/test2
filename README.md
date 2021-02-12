@@ -1,2 +1,2 @@
-# test2
- Basics
+int x;
+x = 2;
